@@ -19,4 +19,3 @@ Api.sendPhoto({
     "🎉🔥NEW DOUBLE YOUR CRYPTO🔮🎉\n✳00 RUNNING day\n\n🧾 Name: X2BTCDOUBLER\n📆DATE STARTED :  APRIL 15 , 2020\n\n⛓️Link!!\nhttp://x2btcdoubler.best/?ref=technoid\n\n💹 Profit : 200% in 24 Hours\n               : 300% in 30 Hours \n               : 200% in 14 Hours\n\n📥 Min Invest : $1\n           ◾️ BTC, LTC, DOGE, ETH, BCH \n                 PERFECT MONEY, PAYEER\n✅ AUTOMATIC WITHDRAWAL\n🔎 Status : Paying*\n\n*⛓️Link!!\nhttp://x2btcdoubler.best/?ref=technoid\n\n⛔️NOTE\n⚠️Cheat referral not Paid‼\n\nFor Promoting Here contact admims :*\n@technoid0118\n@ZurikProfits",
   is_reply: true
 })
-
